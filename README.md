@@ -1,47 +1,31 @@
-# 👋 Hi, I'm Kangmin Lee
+<h1 align="center">Hi 👋, I'm Gangmin Lee</h1>
 
-🚀 Android Developer | IoT | Bluetooth | KMP  
-💡 Building smart IoT apps with BLE & A2DP  
-🏢 Working at ThreeH  
-
----
-
-## 🛠 Tech Stack
-
-### 📱 Mobile
-- Android (Kotlin, Java)
-- Jetpack Compose
-- KMP (Kotlin Multiplatform)
-
-### 🔌 IoT / Bluetooth
-- BLE (Scan, GATT)
-- Classic Bluetooth (A2DP)
-- Device Control Systems
-
-### 🌐 Backend / Web
-- Next.js
-- Cloudflare Workers
-- Drizzle ORM
+<p align="center">
+  Building simple, practical, and reliable things 🚀
+</p>
 
 ---
 
-## 📌 Current Projects
+## 🧑‍💻 About Me
 
-- 🔹 Iray IoT App (Smart Bed Control)
-- 🔹 AI Shorts Automation Pipeline
-- 🔹 Bluetooth Audio Streaming App
+- Focused on creating useful and clean software  
+- Interested in real-world problem solving  
+- Continuously learning and improving  
 
 ---
 
 ## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rkdals0301&show_icons=true&theme=tokyonight"/>
+</p>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkdals0301&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📫 Contact
-
-- Email: your@email.com
-- Blog: (있으면 추가)
+<p align="center">
+  "Consistency over intensity."
+</p>
