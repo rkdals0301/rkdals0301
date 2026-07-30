@@ -68,30 +68,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 💙 Our Days
-
-A simple and emotional website created for couples.
-
-* Anniversary and memory-based experience
-* Responsive web design
-* Simple and user-friendly interface
-
-🔗 **Website:** [our-days.gangmin.dev](https://our-days.gangmin.dev)
-
-### 🌐 Gangmin.dev
-
-My personal website and development project hub.
-
-* Personal projects and experiments
-* Web service portfolio
-* Developer profile
-
-🔗 **Website:** [gangmin.dev](https://gangmin.dev)
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
